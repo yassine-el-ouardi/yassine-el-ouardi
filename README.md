@@ -28,13 +28,6 @@ I am a dedicated Data Scientist and Software Developer currently pursuing my Mas
 
 <br />
 
-#
-
-### 📈 Stats
-
-![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassine-el-ouardi&show_icons=true&theme=gruvbox)
-
-#
 
 <details>
  <summary><h3>👨‍💻 Yassine's Coding Journey</h3></summary>
