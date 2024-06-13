@@ -44,7 +44,6 @@ As a young tech enthusiast, I started my journey in software development with a 
 
 ### 🌍 Find me on
 
+- [LinkedIn](https://www.linkedin.com/in/yassine-el-ouardi-100288201/)
 - [ResearchGate](https://www.researchgate.net/profile/Yassine-El-Ouardi)
 - [Google Scholar](https://scholar.google.com/citations?user=1h2Ej94AAAAJ&hl=fr&oi=ao)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yassine-el-ouardi&theme=gruvbox&border_radius=4.5)](https://git.io/streak-stats)
