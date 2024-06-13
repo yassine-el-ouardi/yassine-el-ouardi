@@ -35,7 +35,6 @@ I am a dedicated Data Scientist and Software Developer currently pursuing my Mas
 
 <br />
 
-<br />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yassine-el-ouardi&theme=gruvbox&border_radius=4.5)](https://git.io/streak-stats)
 
