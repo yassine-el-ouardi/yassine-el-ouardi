@@ -34,7 +34,7 @@ As a young tech enthusiast, I started my journey in software development with a 
 
 ### 📊 Stats
 
-![Yassine's GitHub stats](https://streak-stats.demolab.com?user=yassine-el-ouardi&theme=gruvbox&border_radius=4.5)](https://git.io/streak-stats)
+![Yassine's GitHub stats](https://streak-stats.demolab.com?user=yassine-el-ouardi&theme=gruvbox&border_radius=4.5)
 
 ### 📚 Research
 
