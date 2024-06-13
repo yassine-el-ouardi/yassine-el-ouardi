@@ -31,7 +31,7 @@ I am a dedicated Data Scientist and Software Developer currently pursuing my Mas
 
  <summary><h3>👨‍💻 Yassine's Coding Journey</h3></summary>
    As a young tech enthusiast, I started my journey in software development with a Bachelor's degree in software development. Driven by curiosity and a relentless pursuit of knowledge, I transitioned into data science to explore how data-driven solutions can influence and improve decisions in tech-intensive industries. Currently, I am working on my Master's thesis and collaborating on projects that integrate machine learning and data analysis to solve real problems. My goal is to continuously grow as a tech professional and contribute to open-source projects and innovative tech solutions.
-
+<br />
 [![GitHub Streak](https://streak-stats.demolab.com?user=yassine-el-ouardi&theme=gruvbox&border_radius=4.5)](https://git.io/streak-stats)
 
 <!-- This section can be updated with your personal or promotional content -->
