@@ -28,33 +28,23 @@ I am a dedicated Data Scientist and Software Developer currently pursuing my Mas
 
 <br />
 
+### 👨‍💻 Yassine's Coding Journey
 
- <summary><h3>👨‍💻 Yassine's Coding Journey</h3></summary>
-   As a young tech enthusiast, I started my journey in software development with a Bachelor's degree in software development. Driven by curiosity and a relentless pursuit of knowledge, I transitioned into data science to explore how data-driven solutions can influence and improve decisions in tech-intensive industries. Currently, I am working on my Master's thesis and collaborating on projects that integrate machine learning and data analysis to solve real problems. My goal is to continuously grow as a tech professional and contribute to open-source projects and innovative tech solutions.
-<br />
+As a young tech enthusiast, I started my journey in software development with a Bachelor's degree in software development. Driven by curiosity and a relentless pursuit of knowledge, I transitioned into data science to explore how data-driven solutions can influence and improve decisions in tech-intensive industries. Currently, I am working on my Master's thesis and collaborating on projects that integrate machine learning and data analysis to solve real problems. My goal is to continuously grow as a tech professional and contribute to open-source projects and innovative tech solutions.
 
-<br />
+### 📊 Stats
 
+![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassine-el-ouardi&show_icons=true&theme=gruvbox)
+
+### 📚 Research
+
+- ["Digital Twin-Based Approach for Electric Vehicles: E-Mule Project"](https://doi.org/10.1007/978-3-031-47672-3_3)
+- ["Digital Twin Technology for Enhanced Health Monitoring, Maintenance, and Energy Efficiency of Electric Vehicles: E-mule Project"](https://doi.org/10.1145/3607720.3607788)
+- ["Incorporating Computer Vision and Machine Learning for Lane and Curve Detection in Vehicle Mobility"](http://dx.doi.org/10.1007/978-3-031-54318-0_33)
+
+### 🌍 Find me on
+
+- [ResearchGate](https://www.researchgate.net/profile/Yassine-El-Ouardi)
+- [Google Scholar](https://scholar.google.com/citations?user=1h2Ej94AAAAJ&hl=fr&oi=ao)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yassine-el-ouardi&theme=gruvbox&border_radius=4.5)](https://git.io/streak-stats)
-
-<!-- This section can be updated with your personal or promotional content -->
-
-[website]: https://www.researchgate.net/profile/Yassine-El-Ouardi
-[website]: https://scholar.google.com/citations?user=1h2Ej94AAAAJ&hl=fr&oi=ao
-
-
-<!--
-**yassine-el-ouardi/yassine-el-ouardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
