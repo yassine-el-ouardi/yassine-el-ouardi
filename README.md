@@ -2,7 +2,7 @@
 
 **`Data Scientist | Software Developer | Tech Enthusiast`**
 
-I am a dedicated Data Scientist and Software Developer currently pursuing my Master's in Data Science at the Faculty of Sciences Semlalia, Cadi Ayyad University. With a robust background in software development and a passion for solving complex problems through data analysis and machine learning, I aim to contribute to innovative projects that leverage technology for practical, real-world applications.
+I am a dedicated Data Scientist and a Digital Twin Expert. With a robust background in software development and a passion for solving complex problems through data analysis and machine learning, I aim to contribute to innovative projects that leverage technology for practical, real-world applications.
 
 <p align="left">
    <a href="https://github.com/yassine-el-ouardi?tab=followers">
